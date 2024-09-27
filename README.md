@@ -4,7 +4,7 @@ EL GRINCH
 ## Creador
 Cecilia Aurora Robelo Hernandez
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+El personaje al momento que una persona se acerca a 1 metro, el personaje de "El Grinch" comienza a mover la cabeza, acompañado del movimiento de la mano que sostiene la estrella que esta quitando del arbol y a su vez iniciaran a brillar los leds de la estrella, junto con la activación de una músixa alusiva al tiempo de navidad. 
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -23,7 +23,12 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 Imagen hecha a mano del personaje, con los componentes electronicos requeridos. 
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Primer enlace. Simulación de los requisitos solicitados por el docente en el instrumento de evaluación.
+https://wokwi.com/projects/410213311077508097
+
+Segundo enlace. Silumación de mi proyecto navideño. ("El Grinch")
+
+https://wokwi.com/projects/410216924105700353 
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
