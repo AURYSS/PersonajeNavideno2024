@@ -19,15 +19,6 @@ El personaje al momento que una persona se acerca a 1 metro, el personaje de "El
 ||![image](https://github.com/user-attachments/assets/96f5f1a2-3e0f-429c-a3b5-a2c2250a38d8)|1|106.00|
 
 
-
-
-
-
-
-
-
-|...||||
-
 ## Software a utilizar
 |Software|Versión|
 |--|--|
@@ -36,6 +27,8 @@ El personaje al momento que una persona se acerca a 1 metro, el personaje de "El
 
 ## Dibujo del personaje
 Imagen hecha a mano del personaje, con los componentes electronicos requeridos. 
+![Imagen de WhatsApp 2024-09-27 a las 23 41 19_a580fc45](https://github.com/user-attachments/assets/d7dc0648-f359-4624-97c4-3e372cabc469)
+
 
 ## Enlaces de la simulación de wokwi
 Primer enlace. Simulación de los requisitos solicitados por el docente en el instrumento de evaluación.
