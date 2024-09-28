@@ -9,8 +9,17 @@ El personaje al momento que una persona se acerca a 1 metro, el personaje de "El
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
+|Servo Motor|![image](https://github.com/user-attachments/assets/43659a6b-5522-4065-95a6-dfd0610b316c)|2|55.00|
+|Leds|![image](https://github.com/user-attachments/assets/2c3859f3-5e1e-4059-8e31-eacc9969be01)|100|65.00|
+|Sensor Proximidad|![image](https://github.com/user-attachments/assets/e5d7a7d2-98bb-41dc-a538-a873281f25c2)|1|95.00|
+|Sensor DHT22|![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)|1|19.81|
+|Sensor Photoresistencia|![image](https://github.com/user-attachments/assets/0f956b4a-d038-4b1b-a926-6f0362594c1e)|1|30.00|
+
+
+
+
+
+
 |...||||
 
 ## Software a utilizar
