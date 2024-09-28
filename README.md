@@ -2,7 +2,7 @@
 ## Nombre del personaje
 EL GRINCH
 ## Creador
-Cecilia Aurora Robelo Hernandez
+Cecilia Aurora Robelo Hernández
 ## Explicacion del funcionamiento
 El personaje al momento que una persona se acerca a 1 metro, el personaje de "El Grinch" comienza a mover la cabeza, acompañado del movimiento de la mano que sostiene la estrella que esta quitando del arbol y a su vez iniciaran a brillar los leds de la estrella, junto con la activación de una músixa alusiva al tiempo de navidad. 
 
@@ -14,6 +14,12 @@ El personaje al momento que una persona se acerca a 1 metro, el personaje de "El
 |Sensor Proximidad|![image](https://github.com/user-attachments/assets/e5d7a7d2-98bb-41dc-a538-a873281f25c2)|1|95.00|
 |Sensor DHT22|![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)|1|19.81|
 |Sensor Photoresistencia|![image](https://github.com/user-attachments/assets/0f956b4a-d038-4b1b-a926-6f0362594c1e)|1|30.00|
+|Jumpers|![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)|69|120.00|
+|Tarjetas de Desarrollo Uno|![image](https://github.com/user-attachments/assets/c5f03d59-8d94-4442-a30f-5d99acef2581)|1|170.00|
+||![image](https://github.com/user-attachments/assets/96f5f1a2-3e0f-429c-a3b5-a2c2250a38d8)|1|106.00|
+
+
+
 
 
 
