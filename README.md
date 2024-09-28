@@ -47,6 +47,21 @@ https://wokwi.com/projects/410216924105700353
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+https://drive.google.com/file/d/15nKgxRZMK___PavZBKTecaRGGv3ByBTR/view?usp=sharing 
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+![image](https://github.com/user-attachments/assets/26ee2f0d-b91d-4d07-bea5-b9a319d9df70)
+![image](https://github.com/user-attachments/assets/9858cfdd-8a2f-42aa-adb8-096b0892037e)
+![image](https://github.com/user-attachments/assets/dd797100-e607-48df-9683-53c72c995e9b)
+![image](https://github.com/user-attachments/assets/33e7f31d-18ed-4b66-97f0-e94a611abf27)
+![image](https://github.com/user-attachments/assets/dde338e1-ee9a-4efe-9dd8-26d3700ab54b)
+Examen Final 
+![image](https://github.com/user-attachments/assets/d8a189ae-965f-4223-a664-84c1b3156007)
+
+
+
+
+
+
+
