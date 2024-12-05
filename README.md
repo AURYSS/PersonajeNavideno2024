@@ -47,7 +47,8 @@ https://wokwi.com/projects/410216924105700353
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 https://drive.google.com/file/d/15nKgxRZMK___PavZBKTecaRGGv3ByBTR/view?usp=sharing 
 
-## Video de Tiktok Proyecto Final "Auditorio Municipal Mariano Abasolo en Dolores Hidalgo C.I.N., Gto. en Navidad con Árbol y Santa Claus."
+## Video de Tiktok Proyecto Final
+## "Auditorio Municipal Mariano Abasolo en Dolores Hidalgo C.I.N., Gto. en Navidad con Árbol y Santa Claus."
 https://vm.tiktok.com/ZMkdAJR9F/ 
 
 Descripcion del prototipo: Elaboracion del Auditorio Mariano Abasolo de Dolores Hidalgo C.I.N., Gto. en Navidad el cual inclye un árbol navideño junto con un Santa Claus, teniendo como funcionalidad que cuandos ambos sensores detectan un objeto a un metro de distancia se reproduce una melodía navideña, a siendo a su ves un movimiento circular del árbol, al terminar dicho movimiento también se mueve el Santa Claus y encienden los leds del árbol y del Auditorio. Cuando terminan los movimientos se quedan encendidos todos los leds parpadeando.
